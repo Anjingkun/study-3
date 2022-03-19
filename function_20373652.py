@@ -1,1 +1,1 @@
-elden ring is a nice game
+print('My student_id: 20373652')

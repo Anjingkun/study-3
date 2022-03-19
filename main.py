@@ -1,1 +1,2 @@
-#Edit by 邱俊祺
+import os
+os.system('python function_20373645.py')

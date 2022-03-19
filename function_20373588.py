@@ -1,1 +1,1 @@
- print('My student_id: 20373588 ')
+ print('My student_id: 20373588')
